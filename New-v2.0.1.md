@@ -1,10 +1,10 @@
 {
-"Title": "🛑  شروع اختلالات سراسری  🛑",
-"Description": "شما عضو کانال تلگرام پشتیبان فیلترشکن نیستید ، به همین دلیل بزودی اتصال شما قطع میشود ، فورا    👇🏻عضو کانال شوید",
-"Link": "tg://join?invite=XtOLQ0Dtz7U5ZGY0",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FDD835",
+"Title": "سلام عشقم 😍",
+"Description": "برای استفاده از برنامه و دسترسی به فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرامی ما شوید ❤️👇🏻",
+"Link": "tg://join?invite=uypllBUGgZljNGE0",
+"ColorWave": "#673AB7",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#7E57C2",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "61625596634703",
+"MessageID": "9392929155115",
 "ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
